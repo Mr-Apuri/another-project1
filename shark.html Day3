@@ -1,0 +1,18 @@
+<source shark.html>
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+    <head>
+        <link rel="stylesheet" href="style.css">
+    
+    </head>
+    <body>
+        <div id="divmain">
+            <h1>Megaladon</h1>
+
+            <p class="paragraph">I am very happy i have you in my life ...If only Words can explain the way,i feel for you ,i will have done more than these.You are always in my mind ,i can't stop thinking about you, I love you and i promise to always do..So you have to trust in me at the peak of yourself..even when am with you , i think about you
+                I LOVE YOU SO MUCH HONEY .</p>
+        </div>
+    </body>
+</html>
